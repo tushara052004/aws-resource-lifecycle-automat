@@ -32,7 +32,7 @@ python test_rds.py
 python test_lambda.py
 ```
 
-## Fixes I made to the starter code
+## Bugs found and fixed during testing 
 - Added the missing snapshot lookup function so snapshot cleanup no longer crashes
 - Fixed a counter that never increased
 - Added the missing imports in `awsLambda.py`
